@@ -1,0 +1,8 @@
+Primer parcial recuperatorio
+
+- Listar categorías
+- Resolver alta y baja de categorías
+    - No es necesario setear el estado al dar de alta
+-Listar bandas.
+- Resolver alta y baja de bandas
+    - No es necesario dar de alta a los miembros de la banda al dar de alta.
