@@ -6,3 +6,4 @@ Primer parcial recuperatorio
 -Listar bandas.
 - Resolver alta y baja de bandas
     - No es necesario dar de alta a los miembros de la banda al dar de alta.
+    - Las bandas deben tener categoría.
